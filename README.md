@@ -1,4 +1,4 @@
-# baseball-game
+# Baseball Game Text version
 
 大一物件導向期末作業
 
